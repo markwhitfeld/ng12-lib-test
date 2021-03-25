@@ -11,6 +11,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ng12-lib-test": [
+        "dist/ng12-lib-test/ng12-lib-test",
+        "dist/ng12-lib-test"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
